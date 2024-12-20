@@ -3,11 +3,11 @@
 - Window
 
 ```console
-python -m venv .venv && cd .venv/Scripts/Activate
+python -m venv .venv && cd . .venv/Scripts/Activate
 ```
 
 - Linux and Mac
 
 ```console
-python -m venv .venv && cd .venv/bin/activate
+python -m venv .venv && cd . .venv/bin/activate
 ```
